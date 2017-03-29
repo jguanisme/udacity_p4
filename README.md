@@ -1,11 +1,14 @@
-# udacity_p4
+#**Advanced Lane Finding** 
 
-this is the submission for the udacity p4 advanced lane finding
+##Writeup Template
 
-the white.mp4 is the final result for the lane
+###You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
 
-the write_up_p4.md is the write up file writen in md for this project
+---
 
-the output_images is the interal progress of the image handling
+**Build a Advanced Lane Finding Project**
 
-thanks for reviewing
+1,using all of the chess images to collect more data for calibrating .
+2,undistorting will change the size of image
+3,threshold can control the sensitivity of the algorithm
+4,the image size must be 1280x720 when write a mp4 video
